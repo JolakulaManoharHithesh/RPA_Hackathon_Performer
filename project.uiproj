@@ -1,0 +1,6 @@
+{
+  "ProjectType": "Process",
+  "Name": "Performer",
+  "Description": "Robotics Challenge",
+  "MainFile": "Main.xaml"
+}
